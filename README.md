@@ -5,16 +5,21 @@ This is the 2d online car racing game which is playable score tracker,you can ch
 You can play live demo:(https://2dcarracerbyarpan.netlify.app)
 
 
-Built by:
+## Built by:
 
-HTML
+**HTML**
 
-CSS
+**CSS**
 
-JS
+**JS**
 
-features:
+## features:
 
- you can choose level difficulty
+ **You can choose level difficulty**
 
- score tracking
+ **Easy hard and normal levels**
+
+ **Score tracking**
+
+ ## Screen shot<img width="699" height="1083" alt="screenshot-1780808751041-1" src="https://github.com/user-attachments/assets/f2588946-81ae-48fe-a459-dbfa151e4e26" />
+
